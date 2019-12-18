@@ -17,4 +17,4 @@ else:                                                         # Si la aceleracio
 #fin_if
 
 #output
-print("El volumen de la picina es:",a_angular)
+print("La aceleracion angular es:",a_angular)
