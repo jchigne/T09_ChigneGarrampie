@@ -1,0 +1,211 @@
+python funciones01.py 20 30
+python funciones01.py 10 40
+python funciones01.py 2 70
+
+python funciones02.py 10 10
+python funciones02.py 15 30
+python funciones02.py 200 5
+
+python funciones03.py 25 10
+python funciones03.py 80 5
+python funciones03.py 5 4
+
+python funciones04.py 200 2
+python funciones04.py 300 3
+python funciones04.py 500 100
+
+python funciones05.py 10 5
+python funciones05.py 200 10
+python funciones05.py 5000 50
+
+python funciones06.py 10 11 12
+python funciones06.py 12 13 14
+python funciones06.py 15 16 17
+
+python funciones07.py 100 10
+python funciones07.py 500 30
+python funciones07.py 250 25
+
+python funciones08.py 10 20 30
+python funciones08.py 50 50 10
+python funciones08.py 100 100 300
+
+python funciones09.py 15 10 45
+python funciones09.py 50 50 20
+python funciones09.py 100 100 300
+
+python funciones10.py 10 60
+python funciones10.py 50 20
+python funciones10.py 80 30
+
+python funciones11.py 6 100
+python funciones11.py 5 100
+python funciones11.py 9 100
+
+python funciones12.py 100 3
+python funciones12.py 100 4
+python funciones12.py 100 5
+
+python funciones13.py 548
+python funciones13.py 80
+python funciones13.py 276
+
+python funciones14.py 100 1
+python funciones14.py 50 3
+python funciones14.py 80 5
+
+python funciones14.py 100 1
+python funciones14.py 50 3
+python funciones14.py 80 5
+
+python funciones15.py 100 500
+python funciones15.py 200 10
+python funciones15.py 300 55
+
+python funciones16.py 8 15 2
+python funciones16.py 10 10 10
+python funciones16.py 10 9 6
+
+python funciones17.py 05 05 05 05
+python funciones17.py 10 10 10 10
+python funciones17.py 12 12 12 12
+
+python funciones18.py 3 1
+python funciones18.py 3 5
+python funciones18.py 3 6
+
+python funciones19.py 8 28 4 9
+python funciones19.py 15 30 10 2
+python funciones19.py 10 25 6 3
+
+python funciones20.py 50 50 50 50
+python funciones20.py 90 100 30 80
+python funciones20.py 100 200 300 100
+
+python funciones21.py 8 16 24 32
+python funciones21.py 15 20 30 45
+python funciones21.py 50 50 50 60
+
+python funciones22.py 50 50
+python funciones22.py 25 25
+python funciones22.py 10 10
+
+python funciones23.py 50 50
+python funciones23.py 31 5
+python funciones23.py 10 19
+
+python funciones24.py 3 10 10
+python funciones24.py 3 3 2
+python funciones24.py 3 3 3
+
+python funciones25.py 10 20 30 10
+python funciones25.py 20 30 40 10
+python funciones25.py 05 05 08 02
+
+###################################################################
+# Lotebat ---------- Burga Muñoz
+###################################################################
+
+python funcion01.py 20 30
+python funcion01.py 10 40
+python funcion01.py 2 70
+
+python funcion02.py 88 23 5
+python funcion02.py 15 30 3
+python funcion02.py 12 65 23
+
+python funcion03.py 25 10
+python funcion03.py 80 5
+python funcion03.py 5 4
+
+python funcion04.py 12 30
+python funcion04.py 11 60
+python funcion04.py 78 85
+
+python funcion05.py 10 5 11
+python funcion05.py 11 12 30
+python funcion05.py 50 84 51
+
+python funcion06.py 10 11
+python funcion06.py 12 13
+python funcion06.py 15 16
+
+python funciones07.py 10 22
+python funciones07.py 54 77
+python funciones07.py 25 27
+
+python funcion08.py 11 21
+python funcion08.py 50 85
+python funcion08.py 45 20
+
+python funcion09.py 12 30
+python funcion09.py 55 8
+python funcion09.py 11 30
+
+python funcion10.py 10 3
+python funcion10.py 51 20
+python funcion10.py 80 3
+
+python funcion11.py 6 10
+python funcion11.py 54 2
+python funcion11.py 12 10
+
+python funcion12.py 10 3
+python funcion12.py 23 4
+python funcion12.py 11 5
+
+python funcion13.py 22 33
+python funcion13.py 8 2
+python funcion13.py 87 6
+
+python funcion14.py 22 8
+python funcion14.py 22 3
+python funcion14.py 14 6
+
+python funcion14.py 85 66
+python funcion14.py 9 6
+python funcion14.py 44 3
+
+python funcion15.py 23 11
+python funcion15.py 88 6
+python funcion15.py 3 55
+
+python funcion16.py 8 15 12
+python funcion16.py 12 10 44
+python funcion16.py 10 9 6
+
+python funcion17.py 05 05
+python funcion17.py 10 10
+python funcion17.py 12 12
+
+python funcion18.py 3 1
+python funcion18.py 3 5
+python funcion18.py 3 6
+
+python funcion19.py 8 28
+python funcion19.py 15 30
+python funcion19.py 10 25
+
+python funcion20.py 50 11
+python funcion20.py 9 10
+python funcione20.py 10 20
+
+python funcion21.py 8 16
+python funcion21.py 15 20
+python funcion21.py 50 50
+
+python funcion22.py 50 50
+python funcion22.py 25 25
+python funcion22.py 10 10
+
+python funcion23.py 50 50
+python funcion23.py 31 5
+python funcion23.py 10 19
+
+python funcion24.py 3 10 10
+python funcion24.py 3 3 2
+python funcion24.py 3 3 3
+
+python funcion25.py 10 20 30
+python funcion25.py 20 30 40
+python funcion25.py 05 05 08
